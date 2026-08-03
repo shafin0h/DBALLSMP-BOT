@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mkax.mcsh.io",
+    "ip": "dragonballsmpp.mcsh.io",
     "port": 25565,
     "version": "1.21.8",
     "try-creative": false
