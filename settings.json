@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "h392.mcsh.io",
+    "ip": "mkax.mcsh.io",
     "port": 25565,
     "version": "1.21.8",
     "try-creative": false
