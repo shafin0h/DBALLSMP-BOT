@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Rem",
+    "username": "Ram",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "dragonballsmpp.mcsh.io",
+    "ip": "dragonbalsmp.mcsh.io",
     "port": 25565,
     "version": "1.21.8",
     "try-creative": false
