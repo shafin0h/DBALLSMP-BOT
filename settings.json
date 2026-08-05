@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dragonbalsmp.mcsh.io",
+    "ip": "dballsmp.mcsh.io",
     "port": 25565,
     "version": "1.21.8",
     "try-creative": false
