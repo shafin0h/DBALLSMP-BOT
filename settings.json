@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dballsmp.mcsh.io",
+    "ip": "h224.mcsh.io",
     "port": 25565,
     "version": "1.21.8",
     "try-creative": false
